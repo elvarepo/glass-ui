@@ -1,0 +1,14 @@
+.boxContainer {
+    flex: 0.5;
+    background-color: antiquewhite;
+    background-image: url('https://designscanyon.com/wp-content/uploads/2019/09/watercolor-colorful-background.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxContainer__box {
+    height: 400px;
+    width: 400px;
+}
